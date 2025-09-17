@@ -1,0 +1,17 @@
+#caracteristicas {
+    background-color: #f4f4f4;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+#caracteristicas ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#caracteristicas li {
+    background-color: #ddd;
+    margin: 0.5rem0;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
